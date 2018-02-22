@@ -5,7 +5,7 @@ We're are still in the process of approving information to be released to the pu
 
 ## On Boarding
 
-New to ORION? Have a look at our [On Boarding Document](doc/on_boarding)
+New to ORION? Have a look at our [On Boarding Document](docs/on_boarding)
 
 ## Document List
 
